@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  text-align: center;
+}
+header {
+  background-color: rgb(239, 17, 17);
+  padding: 40px;
+  color: aliceblue;
+  font-size: 30px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+nav {
+  background-color: #bc6bfa;
+  padding: 20px;
+  color: aliceblue;
+  font-size: 20px;
+}
+nav a {
+  text-decoration: none;
+  color: aliceblue;
+}
+figcaption {
+  margin-bottom: 30px;
+}
+h2 {
+  margin: 20px 0px;
+}
+footer {
+  background: black;
+  color: aliceblue;
+  padding: 20px;
+}
